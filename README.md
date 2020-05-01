@@ -6,7 +6,9 @@ comp1=0
 user1=0
 
 while True:
+
     import random
+    
     list=["rock","paper","scissors"]
     comp=random.choice(list)
 
